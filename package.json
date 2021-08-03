@@ -1,5 +1,11 @@
 {
 "name": "@twofistedjustice/tiny",
 "version": "1.0.0",
-  "license": "MIT"
+  "license": "MIT",
+  "main": "index.js",
+  "repository": "twofistedjustice/tiny,",
+  "keywords": [
+    "useless",
+    "tiny"
+  ]
 }
