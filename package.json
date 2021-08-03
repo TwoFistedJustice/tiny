@@ -1,11 +1,1 @@
-{
-"name": "@twofistedjustice/tiny",
-"version": "1.0.0",
-  "license": "MIT",
-  "main": "index.js",
-  "repository": "twofistedjustice/tiny,",
-  "keywords": [
-    "useless",
-    "tiny"
-  ]
-}
+{"name":"@twofistedjustice/tiny","version":"2.0.0","license":"MIT","main":"index.js","repository":"twofistedjustice/tiny,","keywords":["useless","tiny"]}
