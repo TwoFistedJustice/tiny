@@ -1,9 +1,14 @@
 {
-  "name":"@twofistedjustice/tiny",
-  "version": "1.1.0",
+  "name": "@twofistedjustice/tiny",
+  "version": "2.0.0",
   "description": "Removes all spaces from a string",
   "license": "MIT",
   "repository": "TwoFistedJustice/tiny",
   "main": "index.js",
-  "keywords": ["tiney", "useless", "package", "follow-along"]
+  "keywords": [
+    "tiney",
+    "useless",
+    "package",
+    "follow-along"
+  ]
 }
